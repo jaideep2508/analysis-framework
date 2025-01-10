@@ -18,7 +18,7 @@ Process functions are basic task construction elements that, by definition, tell
 Therefore, to vary data subscriptions, multiple process functions have to be defined. However, the content of the
 process function itself can be a single template-based function or method so that the processing code doesn't
 necessarily need to be duplicated. For an example, please check
-[cascadeanalysis.cxx](https://github.com/AliceO2Group/O2Physics/blob/master/PWGLF/Tasks/cascadeanalysis.cxx) or
+[cascadeanalysis.cxx](https://github.com/AliceO2Group/O2Physics/blob/master/PWGLF/Tasks/Strangeness/cascadeanalysis.cxx) or
 [correlations.cxx](https://github.com/AliceO2Group/O2Physics/blob/master/PWGCF/Tasks/correlations.cxx).
 
 ## Hyperloop
